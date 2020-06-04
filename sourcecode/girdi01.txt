@@ -1,0 +1,4 @@
+110,Ali Cetin,MuhendislikFakultesi
+Tihnk a mechanical turrtle that walks around the room under the conttrol of a Java application. 
+The turlte holds a pen in one of two positions, up or down. 
+The defauly position is up.

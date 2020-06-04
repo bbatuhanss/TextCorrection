@@ -1,0 +1,5 @@
+girdi01.txt
+girdi02.txt
+girdi03.txt
+girdi04.txt
+girdi05.txt
